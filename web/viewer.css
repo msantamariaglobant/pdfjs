@@ -2277,6 +2277,6 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
     display: none;
   }
 }
-.download{ 
+.openFile{ 
   display: none;
  }
