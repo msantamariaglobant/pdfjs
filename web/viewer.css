@@ -2277,7 +2277,11 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
     display: none;
   }
 }
-.openFile{ 
+
+.openFile { 
   display: none;
  }
- 
+
+.bookmark {
+  display: none;
+}
